@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "995300314773",
+    "project_id": "smartlock-d7efb",
+    "storage_bucket": "smartlock-d7efb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995300314773:android:b8b1296aaddad345c8959c",
+        "android_client_info": {
+          "package_name": "com.example.smartlock"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7xWq2DlknOsChnn-OF1Mb7M54iraPZEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

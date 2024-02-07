@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:smartlock/Home/home.dart';
+import 'package:smartlock/Lock/lock_searching.dart';
 
 void main() {
   runApp(const MyApp());
@@ -16,7 +16,8 @@ class _MyAppState extends State<MyApp> {
   @override
   Widget build(BuildContext context) {
     return const MaterialApp(
-      home: HomeScreen(),
+      debugShowCheckedModeBanner: false,
+      home: LockSearching(),
     );
   }
 }
